@@ -1,0 +1,31 @@
+# Flutter/Dart related
+.dart_tool/
+.idea/
+.metadata
+*.iml
+*.lock
+
+# Build output
+build/
+
+# Generated files
+android/app/src/main/kotlin/com/example/login_animation/MainActivity.kt
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Packages
+packages/
+
+# Caches
+.pub-cache/
+
+# Sensitive Data
+*.env
+
+# Crash reports
+crashlytics/
